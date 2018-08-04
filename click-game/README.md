@@ -9,5 +9,5 @@ If you click the same image twice then you lose and must face the cold hard fact
 
 Should you reach the High Score then you shall cement your place in history among the greats!
 
-
+![Image of Click-Game](https://raw.githubusercontent.com/ravenusric/click-game/master/click-game/src/styles/images/clickgame.png)
 
