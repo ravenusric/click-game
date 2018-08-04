@@ -13,5 +13,5 @@ Should you reach the High Score then you shall cement your place in history amon
 
 
 ![Image of Click-Game]
-
+(https://raw.githubusercontent.com/ravenusric/click-game/master/click-game/src/styles/images/click2.png)
 
