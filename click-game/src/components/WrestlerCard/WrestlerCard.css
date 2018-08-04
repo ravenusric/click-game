@@ -7,10 +7,12 @@
   width: 325px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
+  border:1px solid red;
 }
 
 .card > .img-container {
-  height: 60%;
+  height: 100%;
+  background-size: cover;
   overflow: hidden;
   text-align: center;
   background:black;
@@ -22,7 +24,8 @@
 .card > .content {
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 15px;
+  font-size: 20px;
+  color:wheat;
 }
 
 .card > .content > ul {
